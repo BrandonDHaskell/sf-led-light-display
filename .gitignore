@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+build/
+
+wifi_credentials.h
